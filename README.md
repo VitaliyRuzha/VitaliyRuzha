@@ -1,6 +1,6 @@
-- Hi! I'm Vitaliy. Nice to meet you.
-- I'm interested in fields such as computer science, astronomy, animation, and some cinematography. I enjoy the fusion of arts with science!
-- You can contact me at <ryanstusalitusEPK@gmail.com>. I look forward to any messages.
+- I'm Vitaliy. Nice to meet you.
+- Fields such as computer science, astronomy, animation, and cinematography are interesting to me. I enjoy the fusion of arts with science.
+- You can contact me at <ryanstusalitusEPK@gmail.com>. I look forward to messages.
 
 <!---
 VitaliyRuzha/VitaliyRuzha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
