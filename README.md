@@ -1,5 +1,5 @@
 - I'm Vitaliy. Nice to meet you.
-- Fields such as computer science, astronomy, animation, and cinematography are interesting to me. I enjoy the fusion of arts with science.
+- Computer science, astronomy, animation, and cinematography are interesting to me. I enjoy the fusion of arts with science.
 - You can contact me at <ryanstusalitusEPK@gmail.com>. I look forward to messages.
 
 <!---
