@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Vitaliy%20👋&fontColor=f7f5f5&animation=fadeIn&type=transparent&height=40")
+![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Vitaliy%20👋&fontColor=f7f5f5&animation=fadeIn&type=waving&height=40")
 
 - Computer science, astronomy, animation, and cinematography are interesting to me. I enjoy the fusion of arts with science.
 - You can contact me at <vitaliy.artemova@gmail.com>. I look forward to messages.
