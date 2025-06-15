@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Vitaliy%20👋&fontColor=f7f5f5&animation=fadeIn&color=0:4774de,50:2961e3,80:292ce3&type=waving&height=40")
 
-I am a passionate and detail-oriented leader who's focused on learning everything that I can and then applying my skills on issues that matter.
+I'm a passionate and detail-oriented leader who's focused on learning and applying skills on issues that matter.
 As a senior in CS with experience in software development, I've helped create scalable solutions to complicated problems.
 
 You can contact me at <vitaliy.artemova@gmail.com>,
