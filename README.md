@@ -2,7 +2,7 @@
 
 I'm a passionate and detail-oriented leader who's focused on learning and applying skills on issues that matter.
 
-As a senior in CS with experience in software development, I've helped create scalable solutions to complicated problems.
+As a recent graduate in CS with experience in software development, I've helped create scalable solutions to complicated problems.
 
 You can contact me at <vitaliy.artemova@gmail.com>,
 I look forward to connecting!
