@@ -4,7 +4,7 @@ I'm an adaptive leader who's focused on learning and applying skills on issues t
 
 As a recent intern with experience in software development, I've helped design and create solutions to various problems.
 
-My interests include full-stack web development, web security, systems administration, and exploring AI and large language model technologies.
+My interests include full-stack web development, web security, systems administration, and exploring LLM-based AI technologies.
 
 You can contact me at <vitaliy.artemova@gmail.com>,
 I look forward to connecting!
