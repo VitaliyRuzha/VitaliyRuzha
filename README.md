@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Vitaliy%20&fontColor=f7f5f5&animation=fadeIn&color=0:4774de,50:2961e3,80:292ce3&type=waving&height=80")
 
-I'm an adaptive leader who's focused on learning and applying skills on issues that matter.
+I'm an adaptive leader who is focused on applying both new and existing skills towards meaningful challenges.
 
 As a recent intern with experience in software development, I've helped design and create solutions to various problems.
 
