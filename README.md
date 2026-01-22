@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Vitaliy%20&fontColor=f7f5f5&animation=fadeIn&color=0:4774de,50:2961e3,80:292ce3&type=waving&height=40")
+![header](https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Vitaliy%20&fontColor=f7f5f5&animation=fadeIn&color=0:4774de,50:2961e3,80:292ce3&type=waving&height=220")
 
 I'm an adaptive leader who's focused on learning and applying skills on issues that matter.
 
